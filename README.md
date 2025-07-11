@@ -121,6 +121,10 @@ Subnet Mask: `255.255.255.128` หรือ `/25`
       <td>Router(config-if)# exit</td>
       <td>ออกจาก interface config</td>
     </tr>
+      <tr>
+      <td>do sh start = do show startup-config</td>
+      <td>ใช้ดู config ที่ถูกบันทึกไว้ใน startup-config ขณะอยู่ในโหมด config โดยไม่ต้องออกไปที่ privileged EXEC mode</td>
+    </tr>
   </tbody>
 </table>
 <p align="center">
