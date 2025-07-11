@@ -3,8 +3,6 @@
 ---
 ### เครดิต
 [**Gurutech Networking Training**](https://www.youtube.com/watch?v=T8F5F9Jt8Yk&list=PLvUOx2WG6R7PMM8UhMWevH75QzGyXOv4g)  
-*เจ้าของช่อง YouTube ที่นำมาเรียนรู้*  
-[ชมวิดีโอและเรียนรู้เพิ่มเติม](https://www.youtube.com/watch?v=T8F5F9Jt8Yk&list=PLvUOx2WG6R7PMM8UhMWevH75QzGyXOv4g)
 ---
 #🖼️ PREVIEW
 <p align="center">
