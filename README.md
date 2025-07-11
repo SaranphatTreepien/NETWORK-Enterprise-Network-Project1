@@ -16,7 +16,7 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/fad07cfe-f38b-481b-a3dc-2ec3c7c91b7c" width="600"/>
 </p>
-# โจทย์
+#📝Assignment 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d763c37-7843-446a-9ad3-fdd2a289ac24" width="600"/> <br/>
   <small>แหล่งที่มา:  
@@ -42,7 +42,7 @@ Subnet Mask: `255.255.255.128` หรือ `/25`
   <tbody>
     <tr>
       <td>1</td>
-      <td>🧾 ACCOUNT</td>
+      <td>ACCOUNT</td>
       <td>255.255.255.128 (/25)</td>
       <td>192.168.40.0</td>
       <td>192.168.40.1 – 192.168.40.126</td>
@@ -50,7 +50,7 @@ Subnet Mask: `255.255.255.128` หรือ `/25`
     </tr>
     <tr>
       <td>2</td>
-      <td>🚚 DELIVERY</td>
+      <td>DELIVERY</td>
       <td>255.255.255.128 (/25)</td>
       <td>192.168.40.128</td>
       <td>192.168.40.129 – 192.168.40.254</td>
@@ -59,7 +59,7 @@ Subnet Mask: `255.255.255.128` หรือ `/25`
   </tbody>
 </table>
 
- ## 📊 Router Command
+ ##💻⚙️Router Command
  ** ย่อคำสั่งเพื่อให้ เข้าใจง่ายๆ ส่วนการ command จริงจะอยู่ในภาพด้านล่าง
  <table>
   <thead>
