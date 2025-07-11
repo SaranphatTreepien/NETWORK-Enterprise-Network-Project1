@@ -1,15 +1,22 @@
-Enterprise Network Project #1 🌐🖧📡⚙️📈
+##Enterprise Network Project #1 🌐🖧📡⚙️📈
 
-ตัวอย่าง
-<img width="2233" height="1204" alt="Screenshot 2025-07-11 151926" src="https://github.com/user-attachments/assets/05fb4ba2-674c-477a-8c9d-67d3c1572e28" />
-![Review PC0](https://github.com/user-attachments/assets/7e8cebcb-0c1c-45d7-bab2-aa123470c25b)
-![Review PC1](https://github.com/user-attachments/assets/30670a2c-4c56-44c5-848e-4b1d860e5287)
-![Review Printer1](https://github.com/user-attachments/assets/fad07cfe-f38b-481b-a3dc-2ec3c7c91b7c)
+#🖼️ PREVIEW
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05fb4ba2-674c-477a-8c9d-67d3c1572e28" width="600"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/7e8cebcb-0c1c-45d7-bab2-aa123470c25b" width="600"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/30670a2c-4c56-44c5-848e-4b1d860e5287" width="600"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/fad07cfe-f38b-481b-a3dc-2ec3c7c91b7c" width="600"/>
+</p>
 
-โจทย์
-<img width="1144" height="386" alt="Screenshot 2025-07-11 142004" src="https://github.com/user-attachments/assets/8d763c37-7843-446a-9ad3-fdd2a289ac24" />
 
-การคำนวณ
+#โจทย์
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d763c37-7843-446a-9ad3-fdd2a289ac24" width="600"/> <br/>
+</p>
+#การคำนวณ
 Network Address = 192.168.40.0           // เครือข่ายหลักที่ได้รับมา ใช้เป็นจุดเริ่มต้นของการแบ่ง Subnet
 No. of subnets = 2                       // ต้องการแบ่งเครือข่ายออกเป็น 2 ส่วน (เช่น แผนก Accounts และ Delivery)
 
