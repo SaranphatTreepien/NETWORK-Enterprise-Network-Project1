@@ -16,10 +16,14 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/fad07cfe-f38b-481b-a3dc-2ec3c7c91b7c" width="600"/>
 </p>
-#โจทย์
+# โจทย์
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d763c37-7843-446a-9ad3-fdd2a289ac24" width="600"/> <br/>
+  <small>แหล่งที่มา:  
+  <a href="https://www.youtube.com/watch?v=T8F5F9Jt8Yk&list=PLvUOx2WG6R7PMM8UhMWevH75QzGyXOv4g" target="_blank" rel="noopener noreferrer">Gurutech Networking Training - YouTube Playlist</a>
+  </small>
 </p>
+
 ## 📊 การคำนวณ Subnet
 Network Address: `192.168.40.0`  
 จำนวน Subnet ที่ต้องการ: `2` (Accounts และ Delivery)  
